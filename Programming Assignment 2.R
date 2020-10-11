@@ -15,7 +15,7 @@ makeCacheMatrix <- function(MTX = matrix()) {
 }
 
 # Make Matrix
-Matx<-matrix(c(2,8,2,3),nrow=2) #matriz ejemplo
+Matx<-matrix(c(4,16,4,6),nrow=2) #matriz ejemplo
 Matxy<-makeCacheMatrix(Matx)
 Matxy
 
